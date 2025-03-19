@@ -43,7 +43,7 @@ class WeatherApp(QWidget):
         """Setup main window properties"""
         self.setWindowTitle("Weather App")
         self.setGeometry(100, 100, 400, 300)
-        self.setWindowIcon(QIcon("weather.png"))
+        self.setWindowIcon(QIcon("weather-app/weather.png"))
 
     def create_widgets(self):
         """Create all widgets"""
