@@ -2,6 +2,8 @@
 
 A simple desktop weather application built with PyQt5 that displays current weather information using the OpenWeatherMap API.
 
+![Screenshot](https://github.com/user-attachments/assets/049b0270-b710-412d-a93e-7e2610089968)
+
 ## Features
 - Real-time weather data
 - Temperature in Celsius and Fahrenheit
