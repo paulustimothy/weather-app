@@ -20,7 +20,7 @@ A simple desktop weather application built with PyQt5 that displays current weat
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/paulustimothy/weather-app.git
 cd weather-app
 ```
 
